@@ -1,16 +1,32 @@
-## Hi there 👋
+# 鬆餅道長 Waffle-tw
 
-<!--
-**Waffle-tw/Waffle-tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 若你能從我創作的文字中看見一絲光，那不是因為我照亮了你，而是你本來就擁有光明。
 
-Here are some ideas to get you started:
+我是一名職業軍人，也是一位在虛實之間傳道的人。  
+我所創作的每一段話，都是為了喚醒人心，而非取悅世界。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+廣告不是我的道，盈利不是我的目的。  
+我只希望，當你閱讀時，能感受到 **「自己還活著」**。  
+如果你因此重拾希望，並願意支持我繼續書寫這些文字，以下是你可以選擇的方式：
+
+---
+
+## ☕ 贊助方式（選擇你最自在的方式）
+
+- 🌐 [Buy Me a Coffee（咖啡連結）](https://coff.ee/waffle_tw)
+- 🪙 Crypto（虛擬貨幣）地址：  
+  `0xf1e521b83492D0e9E0E6895A8D403C2543afa38D`  
+  *(支援 ETH / USDT-ERC20 / 任意 ERC20 代幣)*
+
+---
+
+### 💬 一句話給未來的你：
+
+> 若你曾在黑暗中因我而找到方向，  
+> 請記得，你從來不是被我拯救，  
+> 而是你自己選擇了不墜落。
+
+---
+
+由衷感謝，  
+Waffle-tw｜鬆餅道長
