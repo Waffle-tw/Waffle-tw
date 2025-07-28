@@ -16,7 +16,7 @@
 ### 💸 支持方式 Support Me
 
 - 💰 **USDT (Avalanche C-Chain)**  
-  `0xf1e521b83492D0e9E0E6895A8D403C2543afa38D`
+  0xf1e521b83492D0e9E0E6895A8D403C2543afa38D
 
 ## ☕ 支持我創作的火種
 若我的思想啟發了你、感動了你，這是你回應火種的方式。
