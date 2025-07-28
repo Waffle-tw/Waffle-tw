@@ -18,9 +18,10 @@
 - 💰 **USDT (Avalanche C-Chain)**  
   `0xf1e521b83492D0e9E0E6895A8D403C2543afa38D`
 
-- ☕ **Buy Me a Coffee**  
-  [https://www.buymeacoffee.com/waffletw](https://www.buymeacoffee.com/waffletw)
+## ☕ 支持我創作的火種
+若我的思想啟發了你、感動了你，這是你回應火種的方式。
 
+[![給予創作的火種](https://img.buymeacoffee.com/button-api/?text=給予創作的火種&emoji=🔥&slug=Waffle_tw&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Waffle_tw)
 ---
 
 我不收廣告，也不做商業合作，因為我曾為此購買了 AdGuard 終身方案。  
